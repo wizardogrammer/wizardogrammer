@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wizardogrammer
 - 👀 I’m interested in magic and programming
-- 🌱 I’m currently learning Advanced C++
+- 🌱 I’m currently studying Deep Learning
 - 💞️ I’m looking to collaborate on education in programming
 - 📫 How to reach me [Wizardogrammer](mailto:codertalisman@gmail.com?subject=[GitHub])
 
