@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wizardogrammer
+- 👋 Hi, We are @wizardogrammer
 - 👀 I’m interested in magic and programming
 - 🌱 I’m currently studying Deep Learning
 - 💞️ I’m looking to collaborate on education in programming
