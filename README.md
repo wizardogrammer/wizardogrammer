@@ -13,6 +13,10 @@
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wizardogrammer&show_icons=true&theme=blue-green&count_private=true&include_all_commits=true&border_color=001F1E&text_color=09d672&icon_color=00C2C2&title_color=00F1E9&custom_title=Status" />
+</div>
+
 <!---
 wizardogrammer/wizardogrammer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
