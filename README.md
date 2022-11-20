@@ -1,8 +1,8 @@
 - 👋 Hi, We are @wizardogrammer
-- 👀 I’m interested in magic and programming
-- 🌱 I’m currently studying Deep Learning
-- 💞️ I’m looking to collaborate on education in programming
-- 📫 How to reach me [Wizardogrammer](mailto:codertalisman@gmail.com?subject=[GitHub])
+- 👀 We're interested in magic and programming
+- 🌱 We're currently studying Computer Science
+- 💞️ We're looking to collaborate on education in programming
+- 📫 Reach us at: [Wizardogrammer](mailto:codertalisman@gmail.com?subject=[GitHub])
 
 ## Language
 <div align="center">
