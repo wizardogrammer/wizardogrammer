@@ -5,7 +5,7 @@
 - 📫 Reach us at: [Wizardogrammer](mailto:codertalisman@gmail.com?subject=[GitHub])
 
 <div align="center">
-<img src="https://github.com/raghavk16/raghavk16/blob/master/giphy.webp" alt="eatsleepcode" width="250" height="250" />
+<img src="https://github.com/raghavk16/raghavk16/blob/master/giphy.webp" alt="eatsleepcode" width="100" height="100" />
 </div>
 
 ## Language
