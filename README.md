@@ -4,6 +4,10 @@
 - 💞️ We're looking to collaborate on education in programming
 - 📫 Reach us at: [Wizardogrammer](mailto:codertalisman@gmail.com?subject=[GitHub])
 
+<div align="center">
+<img src="https://github.com/raghavk16/raghavk16/blob/master/giphy.webp" alt="eatsleepcode" width="250" height="250" />
+</div>
+
 ## Language
 <div align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/>
